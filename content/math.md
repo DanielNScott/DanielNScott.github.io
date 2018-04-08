@@ -1,0 +1,30 @@
+---
+layout: default
+---
+## The Conceptual Value of a Mathematical Education ##
+I've been asked more than once what I think the value of learning math is. The value of _knowing_ it is plain in many instances, but the value of _learning_ it less the value of knowing it may be less so. [Here](/content/math) are some of my thoughts on the matter.
+
+
+## The conceptual value of a mathematical education ##
+### A somewhat tired analogy... ### 
+Math provides tools for thinking, which may not be as obvious as it sounds. It's easy to believe learning math primarily means learning the mechanics of solving various problems, learning quantitative descriptions, or learning relationships between abstract entities. In one sense, a declarative sense, this is true. These are the contents of math. While the form of math has no clear primacy over it's contents, to miss it is a standard error which persists despite the fact that the form is what one spends the bulk of their time with. Of course the contents can also be tools for thinking, insofar as they are procedural or they are viewed in aggregate, and even many results are constructions of tools for thinking. Each of these elements is worthwhile in it's own right, but sadly they are not visibly related to math, or much known about, without (or even despite) the education itself. 
+
+### The contents-view of math ###
+Elaborating on the problem with the contents-view of math, consider a whimsical analogy: Whereas one would not mistake a home as, primarily, a collection of items tailored to the problem of sitting, people regularly err thus with regards to math. Of course in the example, there is a gestalt which organizes the affordances collected in a home, namely the concept of a living space. Recognizing this allows for a generative understanding, providing answers to questions such as "what things _should_ a living space contain?" and is therefore plainly valuable. But it isn't any more the most interesting or the most valuable aspect of a home (well, some will differ here) than its analogue is the most interesting or valuable aspect of mathematics, leaving aside momentarily what a generative gestalt of mathematics could be.
+
+Instead, I would say the most interesting question regarding the _concept_ of a home is "what does having a home teach you about the world?" In some sense this may be the simplest non-trivial question you can ask about the matter, although presumably there is no particularly natural partial ordering on the set of such questions. The tragedy of mathematical instruction, insofar as I am familiar with it, is that we do not even aim to lead students to parallel questions with regard to formalism or problem solving (but I will return to this later). In particular, you would not answer "having a home teaches me that chairs are great, and they should be placed near tables." That would be addressing the contents of the generative gestalt. Instead, you may respond that "having a home teaches me about my blindnesses when I leave it," or "having a home foregrounds the difference between a building and a loving community," via the notion of a broken home. This latter suggestion is subtly different from "having a home teaches me that a home is best shared with people you love," in that the former is building a perspective by asking about sub- and super-ordinate relations. Translating this back into the realm of our initial question [...]
+
+[...]
+
+### Specific instances ###
+So what is the central point of mathematics? I will argue below for more than one, but predominantly it is this: Do not attempt to solve hard problems. Or if you prefer: Only solve easy problems. And on a related point: Incrementalism provides approximately WYSIWYG (what you see is what you get) results, and can include apparently radical breaches provided the appropriate framework (thinking here of Hamiltonian Monte-Carlo.)
+
+[...]
+
+### Concluding, in antagonism to prefiguration ###
+A cynical view of our current educational paradigm would say that we aim (with math) for the same short sighted utilitarianism promoted by those who give the humanities such short shrift, to say nothing of the cargo-cultiest corners of tech. At best on the other hand, we aim for a sort of prefiguration whereby meaning will emerge from doing, as mediated by the acquisition of facility. While this result is by no means out of the picture, it explains the aforementioned misconceptions: Some things are easy to learn (or to become) simply by doing, whereas others are not. Procedural knowledge is likely made much more promiscuous when integrated with other forms of knowledge, or maybe more importantly, with values, goals, and priorities, and this is critical here because in some sense we have barely moved beyond rote-memorization in math. Every sort of understanding occurs within - and is made significant by - it's connections throughout one's total hierarchy of understandings. It's not that I'm saying mathematical education isn't synthetic, because it patently is. However, it can and should be synthetic in ways which are not easily recognized from the outside. It should be synthetic across procedural, declarative, intuitive, and metacognitive boundaries. In some sense I'm pushing a model of knowledge and a testable hypothesis regarding the efficacy of education. We should address many levels of analysis spanning this hierarchy, potentially in some regularized* way. Instruction is a tool for side-stepping these barriers and generating these syntheses. Unfortunately, it is not typically deployed in this way to serve students of math. Most likely, this is the result of ad-hoc-ery and happenstance, the usual hidden architects of foolishness, but I will come to the point.
+
+### A hard problem is an easy problem in disguise ###
+Or maybe, it is two; The problem of identifying the easy problem, and the easy problem itself.
+
+[Back to the index.](../index)
