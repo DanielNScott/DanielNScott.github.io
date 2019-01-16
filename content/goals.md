@@ -19,13 +19,14 @@ The most basic advice/commentary often bears repeating, so that one might actual
  - Don't dwell on unavoidable difficulties.
  - Focus on actionable things.
  - Hedge your bets.
+ - Seek disconfirmatory evidence.
 
 ## Less ritualized verbiage ##
 These are additional, specific things I find one ought to keep in mind.
 
  - Failing at something is less diagnostic than it often seems.
  - Don't be lazy about concepts. Perform thought experiments when you encounter new ones.
- - Solid understanding is cumulative but requires cultivating strong self-directed skepticism.
+ - Solid understanding is cumulative and requires strong self-directed skepticism.
  - Breadth-depth trade-offs should be engineered when possible.
  - One enters regimes of diminishing return very quickly. Hence, breadth is cheaper than it appears.
  - Determine your actual values, since goals without values are silly.
@@ -102,6 +103,6 @@ Please take this with a huge grain of salt; It's what I gather, not what I know.
  - Apply to many places, with concrete plans tailored to each.
 
 ## A word from my soapbox ##
-In light of the notes above (and the approximately post-scarcity situation in much of the western world) I would add that listening to, being available for, and trying to help others are the only important things. Useful advice is advice which helps one do these things, in the short run or the long.
+Valuable advice is advice which helps one help others.
 
 [Back to the index](../index)
