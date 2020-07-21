@@ -13,20 +13,22 @@ Someday I hope to re-read some of these. So they are (coarsely) rated:
  - 3: recommended
  - 4: very, very good
 
+ It is true that I find rating vulgar. What do these things mean? Let me count my disapprovals, by category: Anthropological writing is often badly stuctured with regard to the central argument and supporting prose. Technology writing often contains reflexive adulation of the topic at hand, lacks cohesion, and is eager to participate in facile lesson mongering. Psychology writing shares some of these along with the worse qualities of self-help writing. Threes and fours below minimize these.
+
 ## Science writing ##
-I usually find science writing to be poor, but frequently the content is partially redeeming. How needless, this fact! My main complaints separate by category: Anthropological writing is often badly stuctured with regard to the central argument and supporting prose. Technology writing often contains reflexive adulation of the topic at hand, lacks cohesion, and is eager to participate in facile lesson mongering. Psychology writing shares some of these along with the worse qualities of self-help writing. Threes and fours below minimize these.
+I usually find science writing to be poor, but frequently the content is partially redeeming. How needless, this fact! *Histories* of science may seem to be an exception, but really those are the writings of historians.
 
 **Sapiens** (3) <br/>
 Noah Yuval Hirari <br/>
-Hirari argues cultural evolution produces systems of thinking and belief which coordinate populations' activities. Stronger cohesion and coordination increase a culture's ability to reproduce.
+Hirari argues cultural evolution produces systems of thinking and belief which coordinate populations' activities. Stronger cohesion and coordination increase a culture's ability to reproduce, and Hirari believes this is a useful lens for understanding much otherwise difficult history.
 
 **Tropical Nature** (4) <br/>
 Forsyth & Miyata <br/>
-Tropical rainforests have many interesting things going on! This book achieves the classic evocation of wonder associated with nature writing. The authors shade into shallow ruminations on Darwinism in a sentance here or there, but this is not at all excessive.
+Tropical rainforests have many interesting things going on! This book achieves the classic evocation of wonder associated with nature writing, even if the authors shade into shallow ruminations on Darwinism in a sentance here or there. The latter is not at all excessive.
 
 **Superforecasting** (2) <br/>
 Tetlock & Gardner <br/>
-This book details research on how people make good judgements about the likelihood of different future scenarios coming to pass. The main point: Use many kinds of evidence to develop and update quantitative estimates. The book specifies further.
+This book details research on how people make good judgements about the likelihood of different future scenarios coming to pass. The main point: Use many kinds of evidence to develop and update quantitative estimates related to the predictions you would like to make. The book specifies further. Content wise it's excellent, and a decent fraction of the book is devoted to case-study like examples of how these principles were determined by an interesting recent history of ARPA (or DARPA?) research.
 
 **Algorithms to Live By** (1) <br/>
 Christian & Griffiths <br/>
